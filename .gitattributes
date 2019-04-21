@@ -1,1 +1,2 @@
 test.jpeg filter=lfs diff=lfs merge=lfs -text
+sample.jpeg filter=lfs diff=lfs merge=lfs -text
